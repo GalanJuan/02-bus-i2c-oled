@@ -44,7 +44,7 @@ void setup() {
    // 3. Establecer el tamaño de texto a 1
     display.setTextSize(1);
   // 4. Establecer el cursor en la posición (8, 0)
-    con display.setCursor(8, 0);
+    display.setCursor(8, 0);
   // 5. Escribir el texto ">> ESP32 SISTEMA <<"
     display.println(">> ESP32 SISTEMA <<");
   // 6. Dibujar una línea horizontal desde (0, 10) hasta (128, 10) con color blanco
